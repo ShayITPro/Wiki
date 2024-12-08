@@ -2,7 +2,7 @@
 title: Active Directory
 description: 
 published: true
-date: 2024-12-08T15:03:35.704Z
+date: 2024-12-08T15:31:23.913Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T14:06:15.068Z
@@ -21,7 +21,7 @@ LDAP (Lightweight Directory Access Protocol)  = un protocole logiciel permettant
 Serveur hébergeant l'Active Directory = contrôleur de domaine
 	Contrôleur de domaine hébergeant les services d’Active Directory ->  Active Directory Domain Services (AD-DS)
 
-## Rôles de l'AD-DS : 
+Rôles de l'AD-DS : 
 - gestion du stockage des données d’annuaire,
 - gestion de l’authentification et la réplication si plusieurs contrôleurs de domaines présents
 
@@ -41,11 +41,25 @@ Rôles d'opérations à maître unique flottant ou rôles FSMO (*Flexible Single
 
 # Objets de l’annuaire
 
-OU -> Organiser et structurer l'annuaire
+- OU -> Organiser et structurer l'annuaire
+- Groupes -> Simplifier la gestion des ressources en centralisant des objets selon des critères statiques ou dynamiques 
+- Ressources -> Utilisateur, ordinateurs, imprimantes, etc.
 
-Groupes -> Simplifier la gestion des ressources en centralisant des objets selon des critères statiques ou dynamiques 
+## Types de groupes
 
-Ressources -> Utilisateur, ordinateurs, imprimantes, etc.
+Groupes de type domaine local : Objets se trouvant au sein d’un même domaine ;
+
+Groupe de type global : Objets se trouvant dans des domaines disposant d’une relation d’approbation 
+
+Groupe de type universel : Objets se trouvant dans toute la forêt
+
+
+### Stratégie de groupe (GPO)
+
+GPO peut être liée à un domaine, un site ou une unité organisationnelle d’un AD
+
+Par défaut, application d'une GPO à tous les objets authentifiés d’une UO
+
 
 
 

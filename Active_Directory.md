@@ -2,7 +2,7 @@
 title: Active Directory
 description: 
 published: true
-date: 2024-12-08T14:52:47.016Z
+date: 2024-12-08T15:03:35.704Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T14:06:15.068Z
@@ -21,7 +21,7 @@ LDAP (Lightweight Directory Access Protocol)  = un protocole logiciel permettant
 Serveur hébergeant l'Active Directory = contrôleur de domaine
 	Contrôleur de domaine hébergeant les services d’Active Directory ->  Active Directory Domain Services (AD-DS)
 
-Rôles de l'AD-DS : 
+## Rôles de l'AD-DS : 
 - gestion du stockage des données d’annuaire,
 - gestion de l’authentification et la réplication si plusieurs contrôleurs de domaines présents
 

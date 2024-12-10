@@ -2,7 +2,7 @@
 title: Active Directory
 description: 
 published: true
-date: 2024-12-08T15:31:23.913Z
+date: 2024-12-08T15:31:31.345Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T14:06:15.068Z

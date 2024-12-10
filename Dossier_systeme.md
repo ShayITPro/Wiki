@@ -2,7 +2,7 @@
 title: Dossier système
 description: 
 published: true
-date: 2024-12-07T11:25:32.003Z
+date: 2024-12-10T20:50:35.498Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:25:24.706Z

@@ -2,12 +2,11 @@
 title: Glossaire
 description: 
 published: true
-date: 2024-12-07T15:44:48.169Z
+date: 2024-12-10T20:50:58.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:44:41.048Z
 ---
-
 
 | Terme              | Définition                                                                       |
 | ------------------ | -------------------------------------------------------------------------------- |

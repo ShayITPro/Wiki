@@ -2,7 +2,7 @@
 title: Périphériques amovibles
 description: 
 published: true
-date: 2024-12-07T14:44:21.783Z
+date: 2024-12-10T20:53:50.801Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T14:44:14.341Z

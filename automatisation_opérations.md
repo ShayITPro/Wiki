@@ -2,7 +2,7 @@
 title: Automatisation des opérations
 description: 
 published: true
-date: 2024-12-07T15:01:53.060Z
+date: 2024-12-10T20:52:13.097Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:00:08.514Z

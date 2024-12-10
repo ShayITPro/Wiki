@@ -2,13 +2,11 @@
 title: SMB
 description: 
 published: true
-date: 2024-12-09T09:19:47.247Z
+date: 2024-12-10T20:51:42.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-09T09:19:40.120Z
 ---
-
-
 
 SMB : protocole de partage de fichiers réseau TCP/IP qui permet aux applications d'accéder à des fichiers et solliciter des services auprès de programmes serveur sur un réseau
 

@@ -2,12 +2,11 @@
 title: Administration Linux
 description: 
 published: true
-date: 2024-12-07T15:24:40.723Z
+date: 2024-12-10T20:50:05.166Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T10:41:43.296Z
 ---
-
 
 # Administration 
 

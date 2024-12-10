@@ -2,12 +2,11 @@
 title: Protocoles
 description: 
 published: true
-date: 2024-12-07T15:50:13.959Z
+date: 2024-12-10T20:51:12.829Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:50:06.801Z
 ---
-
 
 | N° couche | **Modèle OSI**     | Modèle TCP/IP      | **Protocole**                                                              | Matériel         |
 | --------- | ------------------ | ------------------ | -------------------------------------------------------------------------- | ---------------- |

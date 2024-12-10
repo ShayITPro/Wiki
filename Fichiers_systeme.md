@@ -2,7 +2,7 @@
 title: Fichiers système
 description: 
 published: true
-date: 2024-12-07T15:52:58.749Z
+date: 2024-12-10T20:50:43.102Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:22:58.533Z

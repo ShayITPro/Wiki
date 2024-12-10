@@ -2,7 +2,7 @@
 title: Gestion des services
 description: 
 published: true
-date: 2024-12-07T14:42:47.706Z
+date: 2024-12-10T20:53:35.777Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T14:42:40.129Z

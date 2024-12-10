@@ -2,12 +2,11 @@
 title: Commandes Cisco
 description: 
 published: true
-date: 2024-12-07T15:35:44.779Z
+date: 2024-12-10T20:50:20.499Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:35:37.175Z
 ---
-
 
 # Modes de configuration CISCO
 

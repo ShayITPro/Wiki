@@ -2,7 +2,7 @@
 title: Sudoers
 description: 
 published: true
-date: 2024-12-07T15:17:50.313Z
+date: 2024-12-10T20:51:50.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:17:43.117Z

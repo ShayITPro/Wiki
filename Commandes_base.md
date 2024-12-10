@@ -2,7 +2,7 @@
 title: Commandes de base
 description: 
 published: true
-date: 2024-12-07T14:20:40.852Z
+date: 2024-12-10T20:50:12.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T14:02:47.731Z

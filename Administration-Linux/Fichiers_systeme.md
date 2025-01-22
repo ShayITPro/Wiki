@@ -2,7 +2,7 @@
 title: Fichiers sytème
 description: 
 published: true
-date: 2025-01-22T12:53:36.501Z
+date: 2025-01-22T13:18:01.716Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:22:58.533Z
@@ -80,5 +80,5 @@ dateCreated: 2024-12-07T11:22:58.533Z
 - **`/etc/issue`** : Message avant connexion
 
 
-[Dossier_systeme](/Dossier_systeme)
+
 

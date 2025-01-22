@@ -1,8 +1,8 @@
 ---
-title: 
+title: Fichiers sytème
 description: 
 published: true
-date: 2025-01-22T12:52:21.386Z
+date: 2025-01-22T12:53:36.501Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:22:58.533Z

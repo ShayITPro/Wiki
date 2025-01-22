@@ -2,10 +2,10 @@
 title: Gestion des fichiers et répertoires
 description: 
 published: true
-date: 2024-12-10T20:53:20.887Z
+date: 2025-01-22T11:20:14.472Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T14:17:14.404Z
+dateCreated: 2025-01-22T11:03:09.143Z
 ---
 
 # Création de fichiers et répertoires

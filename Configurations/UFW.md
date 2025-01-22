@@ -2,7 +2,7 @@
 title: UFW
 description: 
 published: true
-date: 2024-12-10T20:51:57.670Z
+date: 2025-01-22T12:03:03.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:19:15.596Z

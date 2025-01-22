@@ -2,10 +2,10 @@
 title: Consultation et recherche de fichiers
 description: 
 published: true
-date: 2024-12-10T20:50:28.016Z
+date: 2025-01-22T11:02:54.532Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T14:08:24.913Z
+dateCreated: 2025-01-22T11:02:47.290Z
 ---
 
 # Affichage du contenu des fichiers

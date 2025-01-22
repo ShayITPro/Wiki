@@ -2,7 +2,7 @@
 title: Configuration réseau
 description: (pour Debian)
 published: true
-date: 2024-12-10T20:51:35.730Z
+date: 2025-01-22T12:02:20.827Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:26:21.880Z

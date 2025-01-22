@@ -2,7 +2,7 @@
 title: SSH ProxyJump
 description: 
 published: true
-date: 2025-01-20T15:18:51.655Z
+date: 2025-01-22T12:02:31.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-20T15:18:42.204Z

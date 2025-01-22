@@ -2,10 +2,10 @@
 title: Périphériques amovibles
 description: 
 published: true
-date: 2024-12-10T20:53:58.458Z
+date: 2025-01-22T11:20:47.133Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T14:44:14.341Z
+dateCreated: 2025-01-22T11:03:41.839Z
 ---
 
 # Types de fichiers de périphériques

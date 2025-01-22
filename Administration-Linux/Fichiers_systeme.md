@@ -1,15 +1,12 @@
 ---
-title: Fichiers système
+title: 
 description: 
 published: true
-date: 2025-01-22T10:52:28.499Z
+date: 2025-01-22T12:52:21.386Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:22:58.533Z
 ---
-
-# Fichiers système
-# Fichiers Système Linux 
 
 ## Utilisateurs et Authentification
 

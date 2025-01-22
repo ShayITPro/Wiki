@@ -18,6 +18,7 @@ dateCreated: 2024-12-07T10:41:43.296Z
 - [Périphériques amovibles](/fr/Administration-Linux/Peripheriques_amovibles)
 - [Utilisateurs et groupes](/fr/Administration-Linux/Utilisateurs_groupes)
 - [Commandes VIM](/fr/Administration-Linux/Commandes_VIM)
+- [Droits d'accès](/fr/Administration-Linux/Droits_acces)
 {.links-list}
 
 

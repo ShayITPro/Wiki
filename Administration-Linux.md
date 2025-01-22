@@ -2,14 +2,14 @@
 title: 
 description: 
 published: true
-date: 2025-01-22T13:19:11.529Z
+date: 2025-01-22T13:19:31.804Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T10:41:43.296Z
 ---
 
 - [Fichiers système](/fr/Administration-Linux/Fichiers_systeme) 
-- [Dossier_systeme](/Dossier_systeme)
+- [Dossiers systeme](/Dossier_systeme)
 - [Commandes de base](/fr/Administration-Linux/Commandes_base)
 - [Consultation et recherche de fichiers](/fr/Administration-Linux/Consultation_recherche_fichiers)
 - [Gestion des fichiers et répertoires](/fr/Administration-Linux/Gestion_fichiers_repertoires)

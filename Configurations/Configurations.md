@@ -2,10 +2,10 @@
 title: Configurations
 description: 
 published: true
-date: 2025-01-20T17:25:29.790Z
+date: 2025-01-22T12:07:23.900Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T15:05:21.242Z
+dateCreated: 2025-01-22T12:07:16.891Z
 ---
 
 - [Politique de mot de passe](/fr/Configurations/Politique_mot_de_passe)

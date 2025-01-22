@@ -2,14 +2,12 @@
 title: Ansible
 description: 
 published: true
-date: 2024-12-10T20:52:05.135Z
+date: 2025-01-22T11:54:13.754Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:03:24.138Z
 ---
 
-# Automatisation des opérations
-
-- [Automatisation des opérations](/automatisation_opérations)
+- [Automatisation des opérations](/fr/Ansible/Automatisation_operations)
 {.links-list}
 

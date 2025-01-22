@@ -2,7 +2,7 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-01-22T11:27:37.046Z
+date: 2025-01-22T11:28:04.840Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T10:41:43.296Z
@@ -13,7 +13,7 @@ dateCreated: 2024-12-07T10:41:43.296Z
 - [Fichiers système](/fr/Administration-Linux/Fichiers_systeme) 
 - [Commandes de base](/fr/Administration-Linux/Commandes_base)
 - [Consultation et recherche de fichiers](/fr/Administration-Linux/Consultation_recherche_fichiers)
-- [Gestion des fichiers et répertoires](/fr/Administration-Linux/Gestion_fichiers_répertoires)
+- [Gestion des fichiers et répertoires](/fr/Administration-Linux/Gestion_fichiers_repertoires)
 - [Gestion des processus](/fr/Administration-Linux/Gestion_processus)
 - [Gestion des services](/fr/Administration-Linux/Gestion_services)
 - [Périphériques amovibles](/fr/Administration-Linux/Peripheriques_amovibles)

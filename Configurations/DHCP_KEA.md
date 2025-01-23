@@ -1,3 +1,13 @@
+---
+title: DHCP KEA
+description: 
+published: true
+date: 2025-01-23T14:00:03.980Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-23T14:00:03.980Z
+---
+
 # Installation du serveur DHCP KEA
 
 ```bash
@@ -50,8 +60,6 @@ sudo nano /etc/kea/kea-dhcp4.conf
 }
 ```
 
-
-
 ## Créer une étendue DHCP
 
 Ajouter dans le fichier `/etc/kea/kea-dhcp4.conf`
@@ -80,10 +88,9 @@ Ajouter dans le fichier `/etc/kea/kea-dhcp4.conf`
 ```
 
 
-
 Fichier complet : 
 
-```json
+```bash
 {
  "Dhcp4": {
     "interfaces-config": {
@@ -171,5 +178,3 @@ Demander un bail dhcp
 ```bash
 dhclient <non interface> 
 ```
-
-

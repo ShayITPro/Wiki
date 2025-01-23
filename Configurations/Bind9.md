@@ -2,7 +2,7 @@
 title: Bind9
 description: 
 published: true
-date: 2025-01-23T11:19:03.896Z
+date: 2025-01-23T15:01:33.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T10:27:43.423Z
@@ -28,7 +28,7 @@ options {
 
          // Mode récursif, pour résoudre les noms externes 
         recursion yes;
-        allow-query { 192.168.1.0/24; };
+        allow-query {<adresse_réseau>/<masque_sous-réseau>; };
         listen-on { <adresse-IP>; };
         listen-on-v6 { none; };
 

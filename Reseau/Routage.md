@@ -2,7 +2,7 @@
 title: Routage
 description: 
 published: true
-date: 2024-12-10T20:51:28.117Z
+date: 2025-01-22T13:10:30.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:51:46.580Z

@@ -2,7 +2,7 @@
 title: Fichier /etc/sudoers
 description: 
 published: true
-date: 2024-12-10T20:53:13.297Z
+date: 2025-01-22T13:19:45.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T14:00:46.831Z

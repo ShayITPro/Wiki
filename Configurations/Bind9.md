@@ -2,7 +2,7 @@
 title: Bind9
 description: 
 published: true
-date: 2025-01-23T11:18:56.651Z
+date: 2025-01-23T11:19:03.896Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T10:27:43.423Z

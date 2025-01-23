@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2025-01-23T11:18:08.779Z
+date: 2025-01-23T11:18:15.865Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T15:05:21.242Z
@@ -15,5 +15,4 @@ dateCreated: 2024-12-07T15:05:21.242Z
 - [UFW](/fr/Configurations/UFW)
 - [Réseau](/fr/Configurations/Reseau)
 - [Bind9](/fr/Configurations/Bind9)
-- [DHCP KEA](/fr/Configurations/DHCP_KEA)
 {.links-list}

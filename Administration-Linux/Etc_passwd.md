@@ -2,7 +2,7 @@
 title: Fichier /etc/passwd
 description: Gestion des Comptes Utilisateurs
 published: true
-date: 2024-12-10T20:52:58.195Z
+date: 2025-01-22T13:19:21.983Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-07T11:27:39.756Z

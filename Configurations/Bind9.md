@@ -5,8 +5,6 @@ sudo apt-get update
 sudo apt-get install bind9 dnsutils
 ```
 
-
-
 # Configuration globale de Bind
 
 ```bash
@@ -17,7 +15,7 @@ sudo nano /etc/bind/named.conf.options
 options {
         // Répertoire de travail de Bind
         directory "/var/cache/bind";
-        
+
          // Mode récursif, pour résoudre les noms externes 
         recursion yes;
         allow-query { 192.168.1.0/24; };
@@ -32,7 +30,6 @@ options {
 
         dnssec-validation no;
 };
-
 ```
 
 Vérifier la configuration 
@@ -40,8 +37,6 @@ Vérifier la configuration
 ```
 sudo named-checkconf
 ```
-
-
 
 # Créer une nouvelle zone DNS
 
@@ -80,7 +75,6 @@ $TTL    604800
 ; Définition des serveurs DNS
 @               IN      NS      <nom-machine.nom-zone>.
 <nom-machine>     IN      A       <Adresse-IP>
-
 ```
 
 Tester la syntaxe 
@@ -97,8 +91,6 @@ sudo systemctl enable named.service
 sudo systemctl status bind9
 ```
 
-
-
 # # Tester la résolution de noms Bind
 
 ```bash
@@ -112,8 +104,6 @@ nameserver <Adresse-IP>
 ```bash
 nslookup <nom-machine.nom-zone>
 ```
-
-
 
 # # Créer une zone de recherche inversée
 
@@ -168,4 +158,14 @@ Tester la résolution inversée
 nslookup <adresse-IP>
 ```
 
+# Tester sur la machine machine client
 
+## Modifier les paramètres DNS
+
+```bash
+sudo nano /etc/resolv.conf
+```
+
+```bash
+nameserver <adresse IP serveur DNS>
+```

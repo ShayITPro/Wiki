@@ -14,4 +14,6 @@ dateCreated: 2024-12-07T15:05:21.242Z
 - [Sudoers](/fr/Configurations/Sudoers)
 - [UFW](/fr/Configurations/UFW)
 - [Réseau](/fr/Configurations/Reseau)
-{.links-list}
+- [Bind9](/fr/Configurations/Bind9)
+  
+  {.links-list}

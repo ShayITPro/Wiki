@@ -1,3 +1,13 @@
+---
+title: Bind9
+description: 
+published: true
+date: 2025-01-23T11:18:56.651Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-23T10:27:43.423Z
+---
+
 # Installation de bind9
 
 ```bash
@@ -91,7 +101,7 @@ sudo systemctl enable named.service
 sudo systemctl status bind9
 ```
 
-# # Tester la résolution de noms Bind
+# Tester la résolution de noms Bind
 
 ```bash
 sudo nano /etc/resolv.conf
@@ -105,7 +115,7 @@ nameserver <Adresse-IP>
 nslookup <nom-machine.nom-zone>
 ```
 
-# # Créer une zone de recherche inversée
+# Créer une zone de recherche inversée
 
 ```bash
 sudo nano /etc/bind/named.conf.local

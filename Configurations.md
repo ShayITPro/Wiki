@@ -15,5 +15,5 @@ dateCreated: 2024-12-07T15:05:21.242Z
 - [UFW](/fr/Configurations/UFW)
 - [Réseau](/fr/Configurations/Reseau)
 - [Bind9](/fr/Configurations/Bind9)
-- [DHCP KEA](/fr/Configurations/DHCP KEA)
+- [DHCP KEA](/fr/Configurations/DHCP_KEA)
 {.links-list}

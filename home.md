@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2025-04-27T15:39:58.843Z
+date: 2025-04-27T16:27:24.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:39:58.843Z
@@ -15,5 +15,7 @@ dateCreated: 2025-04-27T15:39:58.843Z
 - [⚙️ Configurations](/Configurations)
 - [🌐 Réseau](/Reseau)
 - [🪟 Windows Server](/Windows-Server)
+- [🐙 Git](/Git)
+- [📝 Mémos](/Memos)
 
 

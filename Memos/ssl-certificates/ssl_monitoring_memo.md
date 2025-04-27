@@ -1,3 +1,13 @@
+---
+title: ssl_monitoring_memo
+description: 
+published: true
+date: 2025-04-27T11:18:23.487Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-27T10:00:04.345Z
+---
+
 
 # 📋 FICHE MÉMO — Monitoring Certificat SSL sur Discord
 
@@ -37,7 +47,7 @@
 ```bash
 cat /etc/letsencrypt/live/fenris-shay.net/fullchain.pem | head -n 5
 ```
-✅ Si tu vois `-----BEGIN CERTIFICATE-----`, tout est ok.
+✅ Si on voit `-----BEGIN CERTIFICATE-----`, tout est ok.
 
 ---
 
@@ -45,7 +55,7 @@ cat /etc/letsencrypt/live/fenris-shay.net/fullchain.pem | head -n 5
 ```bash
 /usr/local/bin/ssl-check-discord.sh --force
 ```
-✅ Devrait envoyer un message dans ton salon Discord avec l'état du certificat.
+✅ Devrait envoyer un message dans le salon Discord avec l'état du certificat.
 
 ---
 
@@ -69,16 +79,3 @@ cat /etc/letsencrypt/live/fenris-shay.net/fullchain.pem | head -n 5
 
 - Ou recevoir des mails en cas d'erreur en configurant `MAILTO="ton@email.com"` en haut du crontab.
 
----
-
-# 🏆 Ton setup final :
-- Certificat toujours à jour ✅
-- Monitoring SSL automatique ✅
-- Alertes Discord propres ✅
-- Sécurité parfaite (pas d'exposition de clé privée) 🔒
-
----
-
-**Félicitations pour ton super boulot !** 🎉
-
-(Si besoin d'évoluer plus tard vers du multi-domaines, uptime monitoring, etc., c'est possible ⚡️)

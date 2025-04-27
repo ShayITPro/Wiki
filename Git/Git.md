@@ -2,15 +2,15 @@
 title: Git
 description: 
 published: true
-date: 2025-04-27T15:52:27.767Z
+date: 2025-04-27T15:53:19.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-13T12:34:56.021Z
 ---
 
-# 🐙 Git - Commandes et Gestion de Dépôt
+# Git - Commandes et Gestion de Dépôt
 
-## 📂 Commandes de base 
+## Commandes de base 
 
 - Initialiser un dépôt Git : 
 ```bash
@@ -39,7 +39,7 @@ git log
 
 ---
 
-## 📂 Gestion de la configuration Git 
+## Gestion de la configuration Git 
 
 - Afficher tous les paramètres :
 ```bash
@@ -51,7 +51,7 @@ git config --list
 git config <paramètre>
 ```
 
-### 🌟 Configuration des paramètres utilisateur
+### Configuration des paramètres utilisateur
 
 - Définir son nom :
 ```bash
@@ -63,7 +63,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-### 🎨 Améliorer l'affichage
+### Améliorer l'affichage
 
 - Utiliser automatiquement des couleurs :
 ```bash
@@ -87,21 +87,21 @@ git config --global alias.<raccourci> <commande>
 
 ---
 
-## 📂 Travailler avec des fichiers et la zone d'index
+## Travailler avec des fichiers et la zone d'index
 
 - Ajouter des fichiers à la zone d'index :
 ```bash
 git add file.txt
 ```
 
-### 🔥 Ignorer des fichiers avec .gitignore
+### Ignorer des fichiers avec .gitignore
 
 - Créer un fichier `.gitignore` :
 ```bash
 echo "*.log" > .gitignore
 ```
 
-### 🕵️‍♂️ Visualiser les modifications
+### Visualiser les modifications
 
 ```bash
 git diff
@@ -114,7 +114,7 @@ git restore --staged <file>
 
 ---
 
-## 📂 Opérations de base sur les branches
+## Opérations de base sur les branches
 
 - Créer une nouvelle branche :
 ```bash
@@ -131,7 +131,7 @@ git checkout <nom-branche>
 git checkout -b <nom-branche>
 ```
 
-### 🔀 Fusionner des branches
+### Fusionner des branches
 
 - Se positionner sur `master` :
 ```bash
@@ -143,7 +143,7 @@ git checkout master
 git merge <nom-branche>
 ```
 
-### 🗑️ Supprimer une branche devenue inutile
+### Supprimer une branche devenue inutile
 
 ```bash
 git branch -d feature-dimension
@@ -151,7 +151,7 @@ git branch -d feature-dimension
 
 ---
 
-## 📂 Opérations avancées sur les commits
+## Opérations avancées sur les commits
 
 - Modifier le dernier commit :
 ```bash
@@ -168,7 +168,7 @@ git revert HEAD
 git cherry-pick <id-commit>
 ```
 
-### 🛠️ Remise en forme interactive
+### Remise en forme interactive
 
 - Modifier les 3 derniers commits :
 ```bash
@@ -182,7 +182,7 @@ git rebase -i --root
 
 ---
 
-## 📂 Sauvegarder un travail en cours avec `stash`
+## Sauvegarder un travail en cours avec `stash`
 
 - Sauvegarder temporairement les modifications :
 ```bash
@@ -214,4 +214,8 @@ git stash pop
 git stash branch nouvelle-branche
 ```
 
+---
 
+# Résumé
+
+Cette fiche regroupe les commandes et opérations principales pour travailler efficacement avec Git.

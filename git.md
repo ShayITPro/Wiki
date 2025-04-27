@@ -2,240 +2,216 @@
 title: Git
 description: 
 published: true
-date: 2024-12-18T16:02:42.467Z
+date: 2025-04-27T15:52:27.767Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-18T14:20:26.855Z
+dateCreated: 2025-04-13T12:34:56.021Z
 ---
 
-# Commandes de base 
+# 🐙 Git - Commandes et Gestion de Dépôt
 
-Créer un dépôt Git : 
-``` git
+## 📂 Commandes de base 
+
+- Initialiser un dépôt Git : 
+```bash
 git init
 ```
 
-Vérifier l'état du dépôt
-
-```git
+- Vérifier l'état du dépôt :
+```bash
 git status
 ```
 
-Créer des fichiers et les préparer pour le commit
-
-```git
+- Ajouter des fichiers à l'index :
+```bash
 git add file.txt
 ```
 
-Créer un commit (un point de sauvegarde dans le temps) 
-
-```git
+- Créer un commit :
+```bash
 git commit -m "description"
 ```
 
-Consulter l'historique du projet 
-```git
+- Consulter l'historique du projet :
+```bash
 git log
 ```
 
-# Gestion de la configuration Git 
+---
 
-Pour afficher tous les paramètres :
-```git
+## 📂 Gestion de la configuration Git 
+
+- Afficher tous les paramètres :
+```bash
 git config --list
 ```
 
-Pour afficher un paramètre spécifique
-```git
+- Afficher un paramètre spécifique :
+```bash
 git config <paramètre>
 ```
 
-## Configuration des paramètres utilisateur
+### 🌟 Configuration des paramètres utilisateur
 
-Définir son nom 
-```git
+- Définir son nom :
+```bash
 git config --global user.name "Your Name"
 ```
 
-Définir son adresse mail : 
-```git
+- Définir son adresse mail :
+```bash
 git config --global user.email "your.email@example.com"
 ```
 
-## Améliorer l'affichage
+### 🎨 Améliorer l'affichage
 
-Utiliser automatiquement des couleurs dans la sortie de ses commandes lorsque cela est possible
-
-```git
+- Utiliser automatiquement des couleurs :
+```bash
 git config --global color.ui auto
 ```
 
-Choisir l'éditeur par défaut (nano par ex)
-
-```git
+- Choisir l'éditeur par défaut (ex: nano) :
+```bash
 git config --global core.editor nano
 ```
 
-Synchronisation des échéances
-```git
+- Synchronisation des fins de ligne :
+```bash
 git config --global core.autocrlf input
 ```
 
-Créer des raccourcis
-```git
+- Créer des raccourcis Git :
+```bash
 git config --global alias.<raccourci> <commande>
 ```
-# Travailler avec des fichiers et la zone d’index
 
-Ajouter des fichiers à la zone d’index :
-```git
+---
+
+## 📂 Travailler avec des fichiers et la zone d'index
+
+- Ajouter des fichiers à la zone d'index :
+```bash
 git add file.txt
 ```
 
-## Ignorer les fichiers avec .gitignore
+### 🔥 Ignorer des fichiers avec .gitignore
 
-- Créer un fichier .gitignore qui indique à Git d'ignorer tout fichier portant l'extension .log.
-
-```git
+- Créer un fichier `.gitignore` :
+```bash
 echo "*.log" > .gitignore
 ```
 
-## Visualiser des modifications 
+### 🕵️‍♂️ Visualiser les modifications
 
-```git
+```bash
 git diff
 ```
 
-## Modifierla zone d’index
-
-Restaurer les fichier d’un arbre de travail
-
-```git
+- Restaurer un fichier depuis l'index :
+```bash
 git restore --staged <file>
 ```
 
-# Opérations de base des branches 
+---
 
-- Créer une  nouvelle branche
+## 📂 Opérations de base sur les branches
 
-```git
+- Créer une nouvelle branche :
+```bash
 git branch <nom-branche>
 ```
 
-* Basculer sur une autre branche 
-
-```git
+- Basculer sur une autre branche :
+```bash
 git checkout <nom-branche>
 ```
 
-- Créer et basculer vers une nouvelle branche
-```git
+- Créer ET basculer vers une nouvelle branche :
+```bash
 git checkout -b <nom-branche>
 ```
 
-## Fusionner des branches
+### 🔀 Fusionner des branches
 
-- Aller sur la branche master
-```git
+- Se positionner sur `master` :
+```bash
 git checkout master
 ```
-- Fusionner la branche avec la branche principale
 
-```git
-git merge >nom-branche>
+- Fusionner une branche avec `master` :
+```bash
+git merge <nom-branche>
 ```
 
-## Supprimer une branche devenur inutile
+### 🗑️ Supprimer une branche devenue inutile
 
-```git
+```bash
 git branch -d feature-dimension
 ```
 
-# Opérations avancées de Git Commit
+---
 
-## Modifier le dernier commit
+## 📂 Opérations avancées sur les commits
 
-```git
+- Modifier le dernier commit :
+```bash
 git commit --amend -m "nouvelle description"
 ```
 
-
-## Annuler un commit
-
-- Créer un nouveau commit qui annule les changements introduits par le dernier commit 
-```git
+- Annuler un commit :
+```bash
 git revert HEAD
 ```
 
-## Fusionner certains commit d'une branche dans une aute branche
-
-- Aller sur la branche master
-```git
-git checkout master
+- Fusionner un commit spécifique d'une branche :
+```bash
+git cherry-pick <id-commit>
 ```
 
-- Fusionner le commit plus récent avec la branche principale
-```git
-git cherry-pick <nom-branche>
-```
+### 🛠️ Remise en forme interactive
 
-## Remise en forme interactive
-```git
+- Modifier les 3 derniers commits :
+```bash
 git rebase -i HEAD~3
 ```
 
-Différentes actions pour chacun de ces commits :
-- `pick` : Utilisé par défaut, cela garde le commit tel quel.
-- `reword` : Change uniquement le message du commit.
-- `edit` : Fais une pause après le commit pour permettre des modifications.
-- `squash` : Combine ce commit avec le précédent.
-- `fixup` : Comme squash, mais ne garde pas le message du commit.
-- `drop` : Supprime le commit.
-
-Quand l'éditeur s'ouvre à nouveau, faire les actions prévues
-
-## Remise en forme depuis la racine
-```git
+- Depuis la racine du dépôt :
+```bash
 git rebase -i --root
 ```
 
-# Sauvegarder un travail en cours
+---
 
-## Sauvegarder des modifications
+## 📂 Sauvegarder un travail en cours avec `stash`
 
-- Sauvegarder temporairement les modifications non validées (uncommitted)
-```git
+- Sauvegarder temporairement les modifications :
+```bash
 git stash
 ```
 
-## Appliquer des modifications cachées
-```git
+- Appliquer les modifications sauvegardées :
+```bash
 git stash apply
 ```
-- supprimer tous les stashs sauvegardés
-```git
-git stash clear
-```
-- stash les modifications suivies et les fichiers non suivis (uncommitted)
-```git
-git stash -u
-```
 
-- Afficher la liste de tous les stashs actuellement sauvegardés.
-
-```git
+- Afficher tous les stashs :
+```bash
 git stash list
 ```
 
+- Supprimer tous les stashs :
+```bash
+git stash clear
+```
+
 - Appliquer et supprimer le dernier stash :
-```git
-it stash pop
-```
+```bash
+git stash pop
 ```
 
-## Créer une branche à partir d'une réserve
-
-- Créer une nouvelle branche à partir du dernier stash
-```git
+- Créer une branche depuis un stash :
+```bash
 git stash branch nouvelle-branche
 ```
+
+

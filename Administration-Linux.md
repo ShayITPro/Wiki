@@ -1,23 +1,35 @@
 ---
-title: 
+title: Administration Linux
 description: 
 published: true
-date: 2025-01-22T13:19:40.410Z
+date: 2025-04-27T14:25:05.602Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T10:41:43.296Z
+dateCreated: 2025-04-27T12:41:31.188Z
 ---
 
-- [Fichiers système](/fr/Administration-Linux/Fichiers_systeme) 
-- [Dossiers systeme](/Dossier_systeme)
-- [Commandes de base](/fr/Administration-Linux/Commandes_base)
-- [Consultation et recherche de fichiers](/fr/Administration-Linux/Consultation_recherche_fichiers)
-- [Gestion des fichiers et répertoires](/fr/Administration-Linux/Gestion_fichiers_repertoires)
-- [Gestion des processus](/fr/Administration-Linux/Gestion_processus)
-- [Gestion des services](/fr/Administration-Linux/Gestion_services)
-- [Périphériques amovibles](/fr/Administration-Linux/Peripheriques_amovibles)
-- [Utilisateurs et groupes](/fr/Administration-Linux/Utilisateurs_groupes)
-- [Commandes VIM](/fr/Administration-Linux/Commandes_VIM)
-{.links-list}
+# Administration Linux
 
+## 📘 Commandes
+- [Commandes de base](Commandes/Commandes-de-base)
+- [Commandes VIM](Commandes/Commandes-VIM)
 
+## 📁 Fichiers
+- [Gestion des fichiers et répertoires](Fichiers/Gestion-des-fichiers-et-repertoires)
+- [Fichiers système](Fichiers/Fichiers-systeme)
+- [Dossier système](Fichiers/Dossier-systeme)
+
+## 👥 Utilisateurs
+- [Utilisateurs et groupes](Utilisateurs/Utilisateurs-et-groupes)
+- [Droits d'accès](Utilisateurs/Droits-d-acces)
+- [Fichier /etc/passwd](Utilisateurs/Fichier-etc-passwd)
+- [Fichier /etc/group](Utilisateurs/Fichier-etc-group)
+- [Fichier /etc/shadow](Utilisateurs/Fichier-etc-shadow)
+- [Fichier /etc/sudoers](Utilisateurs/Fichier-etc-sudoers)
+
+## ⚙️ Services
+- [Gestion des processus](Services/Gestion-des-processus)
+- [Gestion des services](Services/Gestion-des-services)
+- [Périphériques amovibles](Services/Peripheriques-amovibles)
+
+## ⚙️ Recherche

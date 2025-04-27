@@ -1,19 +1,24 @@
 ---
-title: 
+title: Configurations
 description: 
 published: true
-date: 2025-01-23T14:01:04.518Z
+date: 2025-04-27T15:07:25.028Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T15:05:21.242Z
+dateCreated: 2025-04-27T15:07:25.028Z
 ---
 
-- [Politique de mot de passe](/fr/Configurations/Politique_mot_de_passe)
-- [SSH](/fr/Configurations/Ssh)
-- [SSH ProxyJump](/fr/Configurations/Ssh-ProxyJump)
-- [Sudoers](/fr/Configurations/Sudoers)
-- [UFW](/fr/Configurations/UFW)
-- [Réseau](/fr/Configurations/Reseau)
-- [Bind9](/fr/Configurations/Bind9)
-- [DHCP KEA](/Configurations/DHCP_KEA)
-{.links-list}
+# 🛠️ Configurations
+
+---
+
+## 📂 Fiches Configuration
+
+- [🖧 Bind9 - Serveur DNS](/Configurations/Bind9)
+- [📡 DHCP KEA - Serveur DHCP](/Configurations/DHCP_KEA)
+- [🔐 Politique de mot de passe](/Configurations/Politique_mot_de_passe)
+- [🌐 Configuration Réseau](/Configurations/Reseau)
+- [🔒 Configuration SSH](/Configurations/Ssh)
+- [🔀 SSH ProxyJump](/Configurations/Ssh-ProxyJump)
+- [🛡️ Configuration Sudoers](/Configurations/Sudoers)
+- [🧱 Configuration UFW (Firewall)](/Configurations/UFW)

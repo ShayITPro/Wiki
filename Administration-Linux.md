@@ -2,7 +2,7 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-04-27T14:41:44.740Z
+date: 2025-04-27T14:43:13.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T12:41:31.188Z
@@ -18,6 +18,7 @@ dateCreated: 2025-04-27T12:41:31.188Z
 - [Gestion des fichiers et répertoires](/Administration-Linux/Fichiers/Gestion_fichiers_repertoires)
 - [Fichiers système](/Administration-Linux/Fichiers/Fichiers_systeme)
 - [Dossier système](/Administration-Linux/Fichiers/Dossier_systeme)
+- [Consultation et recherche de fichiers](/Administration-Linux/Fichiers/Consultation_recherche_fichiers)
 
 ## 👥 Utilisateurs
 - [Utilisateurs et groupes](/Administration-Linux/Utilisateurs/Utilisateurs_groupes)

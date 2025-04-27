@@ -2,7 +2,7 @@
 title: Ansible
 description: 
 published: true
-date: 2025-04-27T18:31:15.812Z
+date: 2025-04-27T19:30:28.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T16:56:08.838Z
@@ -15,3 +15,4 @@ dateCreated: 2025-04-27T16:56:08.838Z
 ## 📂 Fiches Ansible
 
 - [🔄 Automatisation des opérations](Automatisation_operations)
+{.links-list}

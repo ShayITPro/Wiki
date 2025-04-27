@@ -2,7 +2,7 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-04-27T14:39:43.465Z
+date: 2025-04-27T14:41:44.740Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T12:41:31.188Z
@@ -28,8 +28,7 @@ dateCreated: 2025-04-27T12:41:31.188Z
 - [Fichier /etc/sudoers](/Administration-Linux/Utilisateurs/Etc_sudoers)
 
 ## ⚙️ Services
-- [Gestion des processus](/Administration-Linux/Services/Gestion_processus
-- [Gestion des services](/Administration-Linux/Services/Gestion-des-services)
+- [Gestion des processus](/Administration-Linux/Services/Gestion_processus)
+- [Gestion des services](/Administration-Linux/Services/Gestion_services)
 - [Périphériques amovibles](/Administration-Linux/Services/Peripheriques_amovibles)
 
-## ⚙️ Recherche

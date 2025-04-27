@@ -1,17 +1,20 @@
-# 🐧 Administration Linux
+# Administration Linux
 
-- [📄 Commandes VIM](Commandes_VIM)
-- [📄 Commandes de Base](Commandes_base)
-- [📄 Consultation et Recherche de Fichiers](Consultation_recherche_fichiers)
-- [📄 Gestion des Dossiers Système](Dossier_systeme)
-- [📄 Droits d'Accès](Droits_acces)
-- [📄 Etc/group](Etc_group)
-- [📄 Etc/passwd](Etc_passwd)
-- [📄 Etc/shadow](Etc_shadow)
-- [📄 Etc/sudoers](Etc_sudoers)
-- [📄 Fichiers Système](Fichiers_systeme)
-- [📄 Gestion des Fichiers et Répertoires](Gestion_fichiers_repertoires)
-- [📄 Gestion des Processus](Gestion_processus)
-- [📄 Gestion des Services](Gestion_services)
-- [📄 Périphériques Amovibles](Peripheriques_amovibles)
-- [📄 Utilisateurs et Groupes](Utilisateurs_groupes)
+- 📂 Commandes
+  - 📄 [Commandes de base](Commandes/Commandes_de_base)
+  - 📄 [Commandes VIM](Commandes/Commandes_VIM)
+- 📂 Fichiers
+  - 📄 [Gestion des fichiers et répertoires](Fichiers/Gestion_fichiers_repertoires)
+  - 📄 [Fichiers système](Fichiers/Fichiers_systeme)
+  - 📄 [Dossier système](Fichiers/Dossier_systeme)
+- 📂 Utilisateurs
+  - 📄 [Utilisateurs et groupes](Utilisateurs/Utilisateurs_groupes)
+  - 📄 [Droits d'accès](Utilisateurs/Droits_acces)
+  - 📄 [Fichier /etc/group](Utilisateurs/Etc_group)
+  - 📄 [Fichier /etc/passwd](Utilisateurs/Etc_passwd)
+  - 📄 [Fichier /etc/shadow](Utilisateurs/Etc_shadow)
+  - 📄 [Fichier /etc/sudoers](Utilisateurs/Etc_sudoers)
+- 📂 Services
+  - 📄 [Gestion des processus](Services/Gestion_processus)
+  - 📄 [Gestion des services](Services/Gestion_services)
+  - 📄 [Périphériques amovibles](Services/Peripheriques_amovibles)

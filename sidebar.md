@@ -1,6 +1,16 @@
-# 🪟 Windows Server
+---
+title: 
+description: 
+published: true
+date: 2025-04-27T15:34:32.439Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-27T12:12:46.342Z
+---
 
-- [📄 Active Directory](Active_Directory)
-- [📄 Gestionnaire de Ressources Fichiers](Gestionnaire-ressources-serveur-fichiers)
-- [📄 Partages SMB](SMB)
-- [📄 Système de Fichiers Windows](Systeme-fichiers)
+- [🏠 Accueil](/home)
+- [🖥️ Administration Linux](/Administration-Linux)
+- [📦 Ansible](/Ansible)
+- [⚙️ Configurations](/Configurations)
+- [🌐 Réseau](/Reseau)
+- [🪟 Windows Server](/Windows-Server)

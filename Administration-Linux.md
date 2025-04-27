@@ -2,7 +2,7 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-04-27T14:36:32.590Z
+date: 2025-04-27T14:38:15.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T12:41:31.188Z
@@ -20,12 +20,12 @@ dateCreated: 2025-04-27T12:41:31.188Z
 - [Dossier système](/Administration-Linux/Fichiers/Dossier_systeme)
 
 ## 👥 Utilisateurs
-- [Utilisateurs et groupes](/Administration-Linux/Utilisateurs/Utilisateurs-et-groupes)
-- [Droits d'accès](/Administration-Linux/Utilisateurs/Droits-d-acces)
-- [Fichier /etc/passwd](/Administration-Linux/Utilisateurs/Fichier-etc-passwd)
-- [Fichier /etc/group](/Administration-Linux/Utilisateurs/Fichier-etc-group)
-- [Fichier /etc/shadow](/Administration-Linux/Utilisateurs/Fichier-etc-shadow)
-- [Fichier /etc/sudoers](/Administration-Linux/Utilisateurs/Fichier-etc-sudoers)
+- [Utilisateurs et groupes](/Administration-Linux/Utilisateurs/Utilisateurs_groupes)
+- [Droits d'accès](/Administration-Linux/Utilisateurs/Droits_acces)
+- [Fichier /etc/passwd](/Administration-Linux/Utilisateurs/Etc_passwd)
+- [Fichier /etc/group](/Administration-Linux/Utilisateurs/Etc_group)
+- [Fichier /etc/shadow](/Administration-Linux/Utilisateurs/Etc_shadow)
+- [Fichier /etc/sudoers](/Administration-Linux/Utilisateurs/Etc_sudoers)
 
 ## ⚙️ Services
 - [Gestion des processus](/Administration-Linux/Services/Gestion-des-processus)

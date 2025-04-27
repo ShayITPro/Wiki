@@ -2,7 +2,7 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-04-27T14:25:05.602Z
+date: 2025-04-27T14:25:48.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T12:41:31.188Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-27T12:41:31.188Z
 # Administration Linux
 
 ## 📘 Commandes
-- [Commandes de base](Commandes/Commandes-de-base)
+- [Commandes de base](/Commandes/Commandes-de-base)
 - [Commandes VIM](Commandes/Commandes-VIM)
 
 ## 📁 Fichiers

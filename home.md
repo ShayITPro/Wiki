@@ -1,34 +1,19 @@
 ---
-title: Accueil
+title: 
 description: 
 published: true
-date: 2025-01-23T09:05:27.213Z
+date: 2025-04-27T15:39:58.843Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-07T10:31:21.211Z
+dateCreated: 2025-04-27T15:39:58.843Z
 ---
 
-# Bienvenue sur mon wiki
+# 📚 Accès rapide aux catégories principales :
 
-*Ce wiki regroupe toutes mes connaissances et outils pour l'administration système et réseau.*
-
----
-
-## 🔗 Liens rapides :
-- [Commandes Cisco](/fr/Reseau/Commandes_cisco)
-- [Protocoles réseau](/fr/Reseau/Protocoles)
-- [Active Directory](fr/Windows-Server/Active_Directory)
-
-
-
----
-
-## 📂 Catégories principales :
-
-| **Catégorie**       | **Description**                      |
-|----------------------|--------------------------------------|
-| **Linux**           | Commandes et configurations Linux.  |
-| **Réseaux**         | Protocoles, équipements, et plus.   |
-| **Windows Server**  | Gestion Active Directory et FSRM.   |
+- [🖥️ Administration Linux](/Administration-Linux)
+- [📦 Ansible](/Ansible)
+- [⚙️ Configurations](/Configurations)
+- [🌐 Réseau](/Reseau)
+- [🪟 Windows Server](/Windows-Server)
 
 

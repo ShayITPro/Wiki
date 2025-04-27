@@ -2,7 +2,7 @@
 title: Git
 description: 
 published: true
-date: 2025-04-27T15:53:19.749Z
+date: 2025-04-27T15:54:03.580Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-13T12:34:56.021Z
@@ -214,8 +214,3 @@ git stash pop
 git stash branch nouvelle-branche
 ```
 
----
-
-# Résumé
-
-Cette fiche regroupe les commandes et opérations principales pour travailler efficacement avec Git.

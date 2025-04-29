@@ -1,8 +1,8 @@
 ---
-title: 
+title: Configurations
 description: 
 published: true
-date: 2025-04-29T17:18:49.932Z
+date: 2025-04-29T17:19:42.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:07:25.028Z

@@ -2,20 +2,22 @@
 title: Bind9
 description: 
 published: true
-date: 2025-01-23T15:01:33.539Z
+date: 2025-04-29T17:18:15.553Z
 tags: 
 editor: markdown
-dateCreated: 2025-01-23T10:27:43.423Z
+dateCreated: 2025-04-13T12:37:41.255Z
 ---
 
-# Installation de bind9
+# Bind9 ![bind_9.svg](/icons/bind_9.svg)
+
+# Installation
 
 ```bash
 sudo apt-get update
 sudo apt-get install bind9 dnsutils
 ```
 
-# Configuration globale de Bind
+# Configuration globale 
 
 ```bash
 sudo nano /etc/bind/named.conf.options
@@ -93,7 +95,7 @@ Tester la syntaxe
 named-checkzone <nom.zone> /etc/bind/<db.nom-zone> 
 ```
 
-# Démarrage de Bind9
+# Démarrage 
 
 ```bash
 sudo systemctl start bind9

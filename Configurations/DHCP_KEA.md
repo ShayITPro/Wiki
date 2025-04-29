@@ -2,13 +2,15 @@
 title: DHCP KEA
 description: 
 published: true
-date: 2025-01-23T14:00:11.208Z
+date: 2025-04-29T17:17:10.048Z
 tags: 
 editor: markdown
-dateCreated: 2025-01-23T14:00:03.980Z
+dateCreated: 2025-04-13T12:37:51.528Z
 ---
 
-# Installation du serveur DHCP KEA
+# DHCP KEA ![kea_1.4.svg](/icons/kea_1.4.svg)
+
+# Installation du serveur
 
 ```bash
 sudo apt-get update
@@ -17,7 +19,7 @@ sudo apt-get install kea-dhcp4-server
 
 
 
-# Configuration du serveur DHCP KEA
+# Configuration du serveur
 
 ## Configuration globale du serveur DHCP
 

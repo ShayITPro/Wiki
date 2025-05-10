@@ -2,12 +2,13 @@
 title: Administration Linux
 description: 
 published: true
-date: 2025-04-27T19:10:56.330Z
+date: 2025-05-10T09:24:36.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T16:53:18.785Z
 ---
 
+- [🏠 Retour à l'Accueil](/)
 
 # Administration Linux
 

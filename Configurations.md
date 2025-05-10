@@ -2,17 +2,14 @@
 title: Configurations
 description: 
 published: true
-date: 2025-04-29T17:19:42.165Z
+date: 2025-05-10T09:53:24.927Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:07:25.028Z
 ---
 
-# 🛠️ Configurations
+# 🛠️ [Configurations](/Configurations)
 
----
-
-## 📂 Fiches Configuration
 
 - [![bind_9.svg](/icons/bind_9.svg) Bind9 - Serveur DNS](/Configurations/Bind9)
 - [![kea_1.4.svg](/icons/kea_1.4.svg) DHCP KEA - Serveur DHCP](/Configurations/DHCP_KEA)

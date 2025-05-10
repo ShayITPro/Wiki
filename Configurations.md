@@ -2,13 +2,13 @@
 title: Configurations
 description: 
 published: true
-date: 2025-05-10T09:53:24.927Z
+date: 2025-05-10T09:53:44.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:07:25.028Z
 ---
 
-# 🛠️ [Configurations](/Configurations)
+# 🛠️ Configurations
 
 
 - [![bind_9.svg](/icons/bind_9.svg) Bind9 - Serveur DNS](/Configurations/Bind9)

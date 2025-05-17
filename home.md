@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2025-05-10T09:20:34.525Z
+date: 2025-05-17T13:51:58.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:39:58.843Z
@@ -17,5 +17,6 @@ dateCreated: 2025-04-27T15:39:58.843Z
 - [![microsoft-windows.svg](/icons/microsoft-windows.svg) Windows Server](/Windows-Server)
 - [![git.svg](/icons/git.svg) Git](/Git)
 - [🗒️ Mémos](/Memos)
+- [🔒 Privé](/Prive)
 {.links-list}
 

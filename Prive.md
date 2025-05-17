@@ -1,8 +1,8 @@
 ---
-title: Privé
+title: Prive
 description: 
-published: false
-date: 2025-05-17T13:48:35.366Z
+published: true
+date: 2025-05-17T13:52:30.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-17T13:45:20.510Z

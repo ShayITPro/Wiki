@@ -2,7 +2,7 @@
 title: Configurations
 description: 
 published: true
-date: 2025-05-17T13:41:38.407Z
+date: 2025-06-01T17:15:37.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:07:25.028Z
@@ -20,4 +20,5 @@ dateCreated: 2025-04-27T15:07:25.028Z
 - [🛡️ Configuration Sudoers](/Configurations/Sudoers)
 - [🧱 Configuration UFW (Firewall)](/Configurations/UFW)
 - [🐳 Conventions de nommage Docker](/Configurations/Conventions_nommage_Docker)
+- [🔄 Mise à jour des services Docker](/Configurations/maj-services-docker)
 {.links-list}

@@ -2,7 +2,7 @@
 title: Configurations
 description: 
 published: true
-date: 2025-06-01T17:15:37.825Z
+date: 2025-06-29T07:55:32.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T15:07:25.028Z
@@ -21,4 +21,5 @@ dateCreated: 2025-04-27T15:07:25.028Z
 - [🧱 Configuration UFW (Firewall)](/Configurations/UFW)
 - [🐳 Conventions de nommage Docker](/Configurations/Conventions_nommage_Docker)
 - [🔄 Mise à jour des services Docker](/Configurations/maj-services-docker)
+- [📈 Uptime Kuma - Supervision](Configurations/Uptime_Kuma)
 {.links-list}
